@@ -1,5 +1,5 @@
 import streamlit as st
-from joblib import load
+import joblib
 import numpy as np
 import cv2
 import tensorflow as tf
