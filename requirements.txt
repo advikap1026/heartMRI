@@ -1,0 +1,12 @@
+streamlit
+joblib
+numpy
+cv2
+tensorflow
+nibabel
+matplotlib.pylab
+tensorflow.keras.layers
+tempfile
+numpy
+os
+PIL
