@@ -1,7 +1,6 @@
 streamlit
-joblib
 numpy
-cv2
+opencv-python
 tensorflow
 nibabel
 matplotlib.pylab
