@@ -2,7 +2,7 @@ streamlit
 numpy
 opencv-python
 tensorflow
-nibabel
+#nibabel
 matplotlib.pylab
 tensorflow.keras.layers
 tempfile
