@@ -2,3 +2,13 @@ streamlit
 numpy
 opencv-python
 tensorflow
+
+#not working 
+joblib
+nibabel 
+matplotlib.pylab
+tensorflow.keras.layers
+tempfile
+numpy
+os
+PIL
