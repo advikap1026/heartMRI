@@ -1,7 +1,6 @@
 streamlit
 numpy
 opencv-python
-matplotlib.pylab
 tensorflow.keras.layers
 tempfile
 numpy
