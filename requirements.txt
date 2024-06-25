@@ -6,6 +6,7 @@ joblib
 nibabel
 matplotlib
 Pillow
+#still don't work: os, tempfile, tensorflow.keras.layers
 
 #streamlit
 #numpy
