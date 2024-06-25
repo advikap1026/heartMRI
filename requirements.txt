@@ -1,14 +1,23 @@
 streamlit
-numpy
+numpy==2.0.0
 opencv-python
-tensorflow
+tensorflow==2.16.1
+joblib
+nibabel
+matplotlib
+Pillow
+
+#streamlit
+#numpy
+#opencv-python
+#tensorflow
 
 #not working 
-joblib
-nibabel 
-matplotlib.pylab
-tensorflow.keras.layers
-tempfile
-numpy
-os
-PIL
+#joblib
+#nibabel 
+#matplotlib.pylab
+#tensorflow.keras.layers
+#tempfile
+#numpy
+#os
+#PIL
