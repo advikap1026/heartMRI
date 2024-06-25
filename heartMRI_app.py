@@ -1,7 +1,7 @@
 import streamlit as st
 from joblib import load 
 import numpy as np
-import cv2
+import opencv-python
 import tensorflow as tf
 import tensorflow as tf
 import nibabel as nib
